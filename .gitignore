@@ -16,10 +16,13 @@ develop-eggs/
 dist/
 eggs/
 lib/
+log/
+src/log/
 lib64/
 parts/
 sdist/
 var/
+tools/data/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -60,7 +63,6 @@ docs/_build/
 
 # ALE
 libraries/ale/ale
-libraries/ale/makefile
 libraries/ale/tags
 state/
 src/ale_fifo*
